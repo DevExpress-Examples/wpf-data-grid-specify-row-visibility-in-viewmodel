@@ -33,7 +33,7 @@ This example shows how to hide grid rows based on the excluded row collection sp
 - [How to Bind the GridControl's Selected Rows to a Property in a ViewModel](https://github.com/DevExpress-Examples/mvvm-how-to-bind-the-gridcontrols-selected-rows-to-a-property-in-a-viewmodel-e3139)
 - [How to Apply a Custom Filter Condition](https://github.com/DevExpress-Examples/how-to-implement-custom-filtering-e1167)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-specify-row-visibility-in-viewmodel&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-specify-row-visibility-in-viewmodel&~~~was_helpful=no)
 
